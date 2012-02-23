@@ -18,7 +18,7 @@ b) Generate the filtered image using the UIButton category function
 2. For adjusting line spacing of button text -  
 Use the button subclass DemoButton and set buttonLabel instead of titleLabel (ref. https://github.com/Tuszy/MTLabel)  
 
-![Alt text](screenshot1.PNG)  
-![Alt text](screenshot2.PNG)  
-![Alt text](screenshot3.png)  
-![Alt text](screenshot4.png)  
+<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot1.PNG"/>  
+<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot2.PNG"/>  
+<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot3.PNG"/>  
+<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot4.PNG"/>  
