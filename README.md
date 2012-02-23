@@ -20,5 +20,5 @@ Use the button subclass DemoButton and set buttonLabel instead of titleLabel (re
 
 <img src="https://github.com/Dillion/DemoButton/raw/master/screenshot1.PNG"/>  
 <img src="https://github.com/Dillion/DemoButton/raw/master/screenshot2.PNG"/>  
-<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot3.PNG"/>  
-<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot4.PNG"/>  
+<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot3.png"/>  
+<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot4.png"/>  
