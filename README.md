@@ -1,11 +1,11 @@
-##DemoButton  
+## DemoButton  
 
 An UIButton enhancement for:  
  - Programmatic generation of button images using Core Image filters  
  - Caching the generated images in a Nimbus in-memory cache  
  - Setting custom line spacing on button text using MTLabel  
 
-###Basic Usage  
+### Basic Usage  
 
 1. For generating filtered images -  
 a) To use Nimbus memory caching (ref. https://github.com/jverkoey/nimbus), add NIMEMCACHE=1 to Preprocessor Macros, Project Build Settings  
@@ -21,4 +21,4 @@ Use the button subclass DemoButton and set buttonLabel instead of titleLabel (re
 <img src="https://github.com/Dillion/DemoButton/raw/master/screenshot1.PNG"/>  
 <img src="https://github.com/Dillion/DemoButton/raw/master/screenshot2.PNG"/>  
 <img src="https://github.com/Dillion/DemoButton/raw/master/screenshot3.png"/>  
-<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot4.png"/>  
+<img src="https://github.com/Dillion/DemoButton/raw/master/screenshot4.png"/> 
